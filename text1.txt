@@ -13,3 +13,16 @@
 {
     vscode new file to add in the git online ----- git push origin main
 }
+{
+    to create new file in git access in the vscode ---- git pull 
+}
+{
+    create a new folder in pc to add in git --- to create repository in git--
+    ---- git init
+    ---- git remote add origin https:code
+    ---- git branch
+    change branch name ---- git branch -M main
+    --- git add .
+    --- git commit -m "create a files in pc"
+    --- git push origin main
+}

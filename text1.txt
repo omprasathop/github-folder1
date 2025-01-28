@@ -41,3 +41,7 @@ branch
     ---- git merge sub-branch   ---- to join the two branch in main branch
     ---- git push origin main
 }
+{
+main branch data to sub-branch------git checkout sub-branch
+                         ------git pull origin main
+}

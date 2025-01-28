@@ -26,3 +26,18 @@
     --- git commit -m "create a files in pc"
     --- git push origin main
 }
+
+branch
+{
+    create another branch *main *sub-branch
+    ---- git pull
+    ---- git branch -a --- it's show all branch
+    ---- git checkout sun-branch ----  change the main to sub-branch
+    ---- git add .
+    ---- git commit -m "any"
+    ---- git push origin sub-branch
+    ---- git checkout main
+    ---- git diff sub-branch --- the diiferent betweem two branch
+    ---- git merge sub-branch   ---- to join the two branch in main branch
+    ---- git push origin main
+}

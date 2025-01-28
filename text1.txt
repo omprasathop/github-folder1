@@ -1,1 +1,14 @@
-txt one
+{
+    git install in pc
+    cmd ---- git config --global user.name "omprasathop"
+             git config --global user.email "omprassathop@gmail.com"
+} 
+{
+    git to vscode ---- in terminal ----- git clone Git_Folder_Name_code
+}
+{
+    vscode new file to add in the git local ----- git add File_Name
+}
+{
+    vscode new file to add in the git online ----- git push origin main
+}

@@ -8,6 +8,7 @@
 }
 {
     vscode new file to add in the git local ----- git add File_Name
+                         modified file      ----- git commit -m "Write-your-any-comments"
 }
 {
     vscode new file to add in the git online ----- git push origin main
